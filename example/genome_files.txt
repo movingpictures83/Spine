@@ -1,0 +1,3 @@
+plugins/Spine/example/PAO1.fasta	PAO1	fasta
+plugins/Spine/example/PA14.fasta	PA14	fasta
+plugins/Spine/example/AG1.fasta	AG1	fasta

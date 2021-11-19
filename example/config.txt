@@ -1,0 +1,2 @@
+Prefix plugins/Spine/example
+Plugin Spine inputfile genome_files.txt outputfile myoutput
